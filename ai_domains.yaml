@@ -1,0 +1,11 @@
+# domain: category
+api.openai.com: openai
+chat.openai.com: openai
+chatgpt.com: openai
+claude.ai: anthropic
+api.anthropic.com: anthropic
+gemini.google.com: google
+chat.deepseek.com: deepseek
+huggingface.co: huggingface
+perplexity.ai: perplexity
+copilot.microsoft.com: microsoft

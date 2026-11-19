@@ -1,0 +1,3 @@
+# AI services approved by the company
+api.openai.com
+copilot.microsoft.com

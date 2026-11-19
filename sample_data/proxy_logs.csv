@@ -1,0 +1,8 @@
+timestamp,user,domain,bytes_out
+2026-11-01T09:00:00,alice,api.openai.com,1200
+2026-11-01T09:05:00,bob,chat.deepseek.com,450000
+2026-11-01T09:06:00,bob,chat.deepseek.com,420000
+2026-11-01T09:10:00,carol,github.com,3000
+2026-11-01T09:12:00,dave,perplexity.ai,5600
+2026-11-01T09:15:00,alice,copilot.microsoft.com,800
+2026-11-01T09:20:00,erin,huggingface.co,2000000
